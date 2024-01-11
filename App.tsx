@@ -6,9 +6,6 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import home from './pages/home';
 import about from './pages/about';
 
-// NativeWindStyleSheet.setOutput({
-//   default: "native",
-// });
 
 const Stack = createNativeStackNavigator()
 
